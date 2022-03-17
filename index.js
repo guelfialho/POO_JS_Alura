@@ -26,6 +26,8 @@ conta1.transferir(200,conta2); // TRANSFERINDO UM VALOR DA CONTA1 PARA CONTA2
 console.log(conta1); // MOSTRANDO O CONTEUDO DA CONTA1
 console.log(conta2); // MOSTRANDO O CONTEUDO DA CONTA2
 
+console.log(ContaCorrente.numeroDeContas);
+
 
 
 
